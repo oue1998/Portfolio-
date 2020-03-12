@@ -131,9 +131,7 @@ a:hover{
         grid-column: 1 / span 2;
         text-align: center;
     }
-     #header h1{
-     font-size: 50px;
-     }
+
     
     #main1{
         grid-column: 1 / span 1;
