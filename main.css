@@ -6,7 +6,7 @@ body{
     margin-right: 40px;
 }
 h1{
-    font-size: 500%;
+    font-size: 100px;
     font-weight: bold;
     color: #ffd662;
     text-align: center;
@@ -131,6 +131,9 @@ a:hover{
         grid-column: 1 / span 2;
         text-align: center;
     }
+     #header h1{
+     font-size: 50px;
+     }
     
     #main1{
         grid-column: 1 / span 1;
